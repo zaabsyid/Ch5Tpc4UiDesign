@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch5Tpc4UiDesign</string>
+    <string name="hai_bagaimana_kabarmu">Hello, How Are You?</string>
+    <string name="jawaban_kamu">Your answer</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="inggris">English</string>
+</resources>
